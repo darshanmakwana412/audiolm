@@ -12,10 +12,10 @@ A constant learning rate of 1e-3 with AdamW optimizer was used and a drop out ra
 
 | Quantization Rate | Audio Samples Quantized at different rates |
 | ----------------- | ------------------------------------------ |
-| 10 bits           | <video src='./assets/sample.mov' width=180>                          |
-| 20 bits           | ![[sample 2.mp3]]                          |
-| 30 bits           | ![[sample 3.mp3]]                          |
-| 40 bits           | ![[sample 4.mp3]]                          |
+| 10 bits           | https://github.com/darshanmakwana412/audiolm/assets/96970161/021bdda5-7b90-467d-a286-e1525ca54379 |
+| 20 bits           | https://github.com/darshanmakwana412/audiolm/assets/96970161/d439a1d5-454d-4de1-8d54-328a1235db46 |
+| 30 bits           | https://github.com/darshanmakwana412/audiolm/assets/96970161/8e7c9257-3062-413f-a74f-0d03b09c9ef5 |
+| 40 bits           | https://github.com/darshanmakwana412/audiolm/assets/96970161/39ffa748-603e-4c8f-b1f0-8ca49537b83b |
 
 #### Speech Tokenizer
 Speech Tokenizer[2] proposes a unified semantic and acoustic tokenization procedure.
