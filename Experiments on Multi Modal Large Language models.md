@@ -13,7 +13,9 @@ A constant learning rate of 1e-3 with AdamW optimizer was used and a drop out ra
 | Quantization Rate | Audio Samples Quantized at different rates |
 | ----------------- | ------------------------------------------ |
 | 10 bits           | 
+
 https://github.com/darshanmakwana412/audiolm/assets/96970161/021bdda5-7b90-467d-a286-e1525ca54379 
+
 |
 | 20 bits           | https://github.com/darshanmakwana412/audiolm/assets/96970161/d439a1d5-454d-4de1-8d54-328a1235db46 |
 | 30 bits           | https://github.com/darshanmakwana412/audiolm/assets/96970161/8e7c9257-3062-413f-a74f-0d03b09c9ef5 |
