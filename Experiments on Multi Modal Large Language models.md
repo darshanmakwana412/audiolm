@@ -8,6 +8,8 @@ This step resulted in a dataset containing 11.7 Million audio tokens with vocab 
 A GPT style decoder only transformer has been used for training with no changes to the architecture except the initial and the last embeddings matrix share the same parameters to save compute and fit the entire model while training in a single 16GB colab GPU
 A constant learning rate of 1e-3 with AdamW optimizer was used and a drop out rate of 0.2[1] to improve underfitting
 
+https://github.com/darshanmakwana412/audiolm/assets/96970161/021bdda5-7b90-467d-a286-e1525ca54379
+
 ## Quantization
 
 | Quantization Rate | Audio Samples Quantized at different rates |
