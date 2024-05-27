@@ -21,7 +21,8 @@ A GPT style decoder only transformer has been used for training with no changes 
 
 A constant learning rate of 1e-4 with AdamW optimizer was used and a drop out rate of 0.1[2] to improve underfitting
 
-
+![Train Loss](./assets/train_loss.png)
+![Train Loss](./assets/val_loss.png)
 
 Appendix:
 
